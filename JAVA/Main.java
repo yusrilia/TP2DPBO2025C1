@@ -38,8 +38,6 @@ public class Main {
                 int mxLenSize=4;
                 int mxLenMerk=4;
 
-
-
                 for (Baju baju : listBaju) {
                     mxLenID = Math.max(mxLenID, String.valueOf(baju.getID()).length());
                     mxLenNamaProduk = Math.max(mxLenNamaProduk, baju.getNamaProduk().length());
@@ -59,7 +57,6 @@ public class Main {
 
                 // print - sepanjang total length
                 System.out.println("-".repeat(mxLenID + mxLenNamaProduk + mxLenHargaProduk + mxLenStokProduk + mxLenJenis + mxLenBahan + mxLenWarna + mxLenUntuk + mxLenSize + mxLenMerk + 9 * 3 + 4));
-
                 
                 // print isi data dalam tabel
                 for (Baju baju : listBaju){
