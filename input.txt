@@ -1,0 +1,15 @@
+1
+2
+jaket_kucing 50000 5 baju denim hitam kucing 3 CatNike
+2
+hoodie_anjing 55000 7 baju fleece abu-abu anjing 5 WoofHood
+2
+baju_renang_puppy 60000 6 baju lycra biru_laut puppy 2 SwimPaws
+2
+kaos_kucing 35000 8 baju katun merah kucing 2 MeowAdidas
+2
+hoodie_puppy 55000 9 baju fleece biru puppy 4 PuppyNike
+2
+rompi_anjing 40000 7 baju kulit_sintetis coklat anjing 5 DogPuma
+1
+3
