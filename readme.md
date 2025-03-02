@@ -52,7 +52,7 @@ Fungsi dari masing-masing pilihan menu adalah:
 3. Keluar dari program
 
 ## PHP
-Alur program **PHP** adalah menambahkan 5 data baju secara statis (hardcode) lalu menampilkannya dalam tabel html.
+Alur program **PHP** adalah menambahkan 5 data baju secara statis (hardcode) lalu menampilkannya dalam tabel html, kemudian menambahkan data baru, dan menampilkan tabel yang sudah di-update.
 
 # Dokumentasi
 
@@ -73,4 +73,5 @@ Untuk bahasa C++, Java dan Python, berikut adalah hasil run program menggunakan 
 
 
 ## PHP
-![](PHP/dokumentasi/image.png)
+![](PHP/dokumentasi/image1.png)
+![](PHP/dokumentasi/image2.png)
